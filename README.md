@@ -2,6 +2,9 @@
 TonFinder is a Telegram miniapp that connects TON users with global merchants that support crypto payments, combining red envelope marketing and task fission to create a new entry point for Web3 merchant growth.
 
 
+
+
+
 1 MVP功能：
 🎯 1st产品核心价值：“发现全球支持加密货币支付的商家，建立可被信任的商家生态。”
  —— 汇聚真实用户评分、商家资料和加密支付支持币种，让Crypto消费更透明。
